@@ -17,9 +17,8 @@ description: Personal Cyber Security Blog
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Write-up:
-  Blog:
+  Write-up: "write-up"
+  Blog: "blog"
   
 
 # --- Logo --- #
