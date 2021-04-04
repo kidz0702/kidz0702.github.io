@@ -39,8 +39,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "minhhieu0702@gmail.com"
-  github: https://github.com/kidz0702
-  linkedin: https://www.linkedin.com/in/minh-hi%E1%BA%BFu-l%C3%AA-80b952133/
+  github: kidz0702
+  linkedin: minh-hi%E1%BA%BFu-l%C3%AA-80b952133/
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
