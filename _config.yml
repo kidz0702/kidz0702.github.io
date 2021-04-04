@@ -5,11 +5,14 @@
 
 # --- Required options --- #
 
+url: https://kidz0702.github.io
+baseurl: ""
 # Name of website
 title: Hieu Le Blog
 
 # Your name to show in the footer
 author: Hieu Le
+description: Personal Cyber Security Blog
 
 # --- List of links in the navigation bar --- #
 
