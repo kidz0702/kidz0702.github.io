@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 url: https://kidz0702.github.io
-baseurl: ""
+baseurl: "index"
 # Name of website
 title: Hieu Le Blog
 
@@ -44,10 +44,6 @@ social-network-links:
   email: "minhhieu0702@gmail.com"
   github: kidz0702
   linkedin: minh-hi%E1%BA%BFu-l%C3%AA-80b952133/
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: Personal Cyber Security Blog 
 
 # --- General options --- #
 
