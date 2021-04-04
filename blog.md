@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Blog
+title: blog.md
 subtitle: Personal Opinion
+published: true
 ---
